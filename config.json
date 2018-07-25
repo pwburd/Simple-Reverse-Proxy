@@ -1,0 +1,16 @@
+{
+  "proxy-host": "localhost:9595",
+  "port": ":7575",
+  "regex-find-replace": {
+    "a":"A",
+    "b":"B",
+    "c":"C",
+    "d":"D",
+    "e":"E",
+    "f":"F",
+    "g":"G",
+    "p(x*)q": "T"
+  },
+  "static-dir-url-root": "/static",
+  "static-dir-root": "./test"
+}
