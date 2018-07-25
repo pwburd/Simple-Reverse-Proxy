@@ -1,9 +1,9 @@
-SimpleReverseProxy is a basic reverse proxy server that can overwrite string patterns in the response body and serve static files. Can also modify request leaving proxy and response. This was written primarily for simulating remote systems while developing and most importantly for fun.````.
+SimpleReverseProxy is a basic reverse proxy server that can overwrite string patterns in the response body and serve static files. Can also modify request leaving proxy and response. This was written primarily for simulating remote systems while developing and most importantly for fun..
 
-##Run instructions
+## Run instructions
 ```go run main.go```
 
-##Run Demo
+## Run Demo
 
 1. Run test server (server behind proxy) ```go run ./test/test_server.go```
 
